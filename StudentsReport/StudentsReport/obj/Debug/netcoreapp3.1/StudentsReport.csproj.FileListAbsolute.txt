@@ -1,0 +1,14 @@
+D:\Basic_C#_Programs\StudentsReport\StudentsReport\bin\Debug\netcoreapp3.1\StudentsReport.exe
+D:\Basic_C#_Programs\StudentsReport\StudentsReport\bin\Debug\netcoreapp3.1\StudentsReport.deps.json
+D:\Basic_C#_Programs\StudentsReport\StudentsReport\bin\Debug\netcoreapp3.1\StudentsReport.runtimeconfig.json
+D:\Basic_C#_Programs\StudentsReport\StudentsReport\bin\Debug\netcoreapp3.1\StudentsReport.runtimeconfig.dev.json
+D:\Basic_C#_Programs\StudentsReport\StudentsReport\bin\Debug\netcoreapp3.1\StudentsReport.dll
+D:\Basic_C#_Programs\StudentsReport\StudentsReport\bin\Debug\netcoreapp3.1\StudentsReport.pdb
+D:\Basic_C#_Programs\StudentsReport\StudentsReport\obj\Debug\netcoreapp3.1\StudentsReport.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\StudentsReport\StudentsReport\obj\Debug\netcoreapp3.1\StudentsReport.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_C#_Programs\StudentsReport\StudentsReport\obj\Debug\netcoreapp3.1\StudentsReport.AssemblyInfoInputs.cache
+D:\Basic_C#_Programs\StudentsReport\StudentsReport\obj\Debug\netcoreapp3.1\StudentsReport.AssemblyInfo.cs
+D:\Basic_C#_Programs\StudentsReport\StudentsReport\obj\Debug\netcoreapp3.1\StudentsReport.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\StudentsReport\StudentsReport\obj\Debug\netcoreapp3.1\StudentsReport.dll
+D:\Basic_C#_Programs\StudentsReport\StudentsReport\obj\Debug\netcoreapp3.1\StudentsReport.pdb
+D:\Basic_C#_Programs\StudentsReport\StudentsReport\obj\Debug\netcoreapp3.1\StudentsReport.genruntimeconfig.cache
