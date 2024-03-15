@@ -1,0 +1,14 @@
+D:\Basic_C#_Programs\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.exe
+D:\Basic_C#_Programs\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.deps.json
+D:\Basic_C#_Programs\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.runtimeconfig.json
+D:\Basic_C#_Programs\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.runtimeconfig.dev.json
+D:\Basic_C#_Programs\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.dll
+D:\Basic_C#_Programs\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.pdb
+D:\Basic_C#_Programs\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_C#_Programs\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.AssemblyInfoInputs.cache
+D:\Basic_C#_Programs\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.AssemblyInfo.cs
+D:\Basic_C#_Programs\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.dll
+D:\Basic_C#_Programs\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.pdb
+D:\Basic_C#_Programs\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Basic_C#_Programs\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.exe
+D:\Basic_C#_Programs\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.deps.json
+D:\Basic_C#_Programs\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.runtimeconfig.json
+D:\Basic_C#_Programs\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.runtimeconfig.dev.json
+D:\Basic_C#_Programs\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.dll
+D:\Basic_C#_Programs\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.pdb
+D:\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.AssemblyInfoInputs.cache
+D:\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.AssemblyInfo.cs
+D:\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.dll
+D:\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.pdb
+D:\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.genruntimeconfig.cache
