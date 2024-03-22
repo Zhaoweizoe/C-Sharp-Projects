@@ -1,0 +1,14 @@
+D:\Basic_C#_Programs\ConsoleAppArray\obj\Debug\netcoreapp3.1\ConsoleAppArray.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\ConsoleAppArray\obj\Debug\netcoreapp3.1\ConsoleAppArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_C#_Programs\ConsoleAppArray\obj\Debug\netcoreapp3.1\ConsoleAppArray.AssemblyInfoInputs.cache
+D:\Basic_C#_Programs\ConsoleAppArray\obj\Debug\netcoreapp3.1\ConsoleAppArray.AssemblyInfo.cs
+D:\Basic_C#_Programs\ConsoleAppArray\obj\Debug\netcoreapp3.1\ConsoleAppArray.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\ConsoleAppArray\bin\Debug\netcoreapp3.1\ConsoleAppArray.exe
+D:\Basic_C#_Programs\ConsoleAppArray\bin\Debug\netcoreapp3.1\ConsoleAppArray.deps.json
+D:\Basic_C#_Programs\ConsoleAppArray\bin\Debug\netcoreapp3.1\ConsoleAppArray.runtimeconfig.json
+D:\Basic_C#_Programs\ConsoleAppArray\bin\Debug\netcoreapp3.1\ConsoleAppArray.runtimeconfig.dev.json
+D:\Basic_C#_Programs\ConsoleAppArray\bin\Debug\netcoreapp3.1\ConsoleAppArray.dll
+D:\Basic_C#_Programs\ConsoleAppArray\bin\Debug\netcoreapp3.1\ConsoleAppArray.pdb
+D:\Basic_C#_Programs\ConsoleAppArray\obj\Debug\netcoreapp3.1\ConsoleAppArray.dll
+D:\Basic_C#_Programs\ConsoleAppArray\obj\Debug\netcoreapp3.1\ConsoleAppArray.pdb
+D:\Basic_C#_Programs\ConsoleAppArray\obj\Debug\netcoreapp3.1\ConsoleAppArray.genruntimeconfig.cache
