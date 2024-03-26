@@ -1,0 +1,14 @@
+D:\Basic_C#_Programs\Six-PartAssignment\obj\Debug\netcoreapp3.1\Six-PartAssignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\Six-PartAssignment\obj\Debug\netcoreapp3.1\Six-PartAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_C#_Programs\Six-PartAssignment\obj\Debug\netcoreapp3.1\Six-PartAssignment.AssemblyInfoInputs.cache
+D:\Basic_C#_Programs\Six-PartAssignment\obj\Debug\netcoreapp3.1\Six-PartAssignment.AssemblyInfo.cs
+D:\Basic_C#_Programs\Six-PartAssignment\obj\Debug\netcoreapp3.1\Six-PartAssignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\Six-PartAssignment\bin\Debug\netcoreapp3.1\Six-PartAssignment.exe
+D:\Basic_C#_Programs\Six-PartAssignment\bin\Debug\netcoreapp3.1\Six-PartAssignment.deps.json
+D:\Basic_C#_Programs\Six-PartAssignment\bin\Debug\netcoreapp3.1\Six-PartAssignment.runtimeconfig.json
+D:\Basic_C#_Programs\Six-PartAssignment\bin\Debug\netcoreapp3.1\Six-PartAssignment.runtimeconfig.dev.json
+D:\Basic_C#_Programs\Six-PartAssignment\bin\Debug\netcoreapp3.1\Six-PartAssignment.dll
+D:\Basic_C#_Programs\Six-PartAssignment\bin\Debug\netcoreapp3.1\Six-PartAssignment.pdb
+D:\Basic_C#_Programs\Six-PartAssignment\obj\Debug\netcoreapp3.1\Six-PartAssignment.dll
+D:\Basic_C#_Programs\Six-PartAssignment\obj\Debug\netcoreapp3.1\Six-PartAssignment.pdb
+D:\Basic_C#_Programs\Six-PartAssignment\obj\Debug\netcoreapp3.1\Six-PartAssignment.genruntimeconfig.cache
