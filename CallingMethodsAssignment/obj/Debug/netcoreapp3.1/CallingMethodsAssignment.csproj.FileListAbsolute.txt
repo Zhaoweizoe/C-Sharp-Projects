@@ -1,0 +1,14 @@
+D:\Basic_C#_Programs\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.exe
+D:\Basic_C#_Programs\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.deps.json
+D:\Basic_C#_Programs\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.runtimeconfig.json
+D:\Basic_C#_Programs\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.runtimeconfig.dev.json
+D:\Basic_C#_Programs\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.dll
+D:\Basic_C#_Programs\CallingMethodsAssignment\bin\Debug\netcoreapp3.1\CallingMethodsAssignment.pdb
+D:\Basic_C#_Programs\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_C#_Programs\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.AssemblyInfoInputs.cache
+D:\Basic_C#_Programs\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.AssemblyInfo.cs
+D:\Basic_C#_Programs\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.dll
+D:\Basic_C#_Programs\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.pdb
+D:\Basic_C#_Programs\CallingMethodsAssignment\obj\Debug\netcoreapp3.1\CallingMethodsAssignment.genruntimeconfig.cache
