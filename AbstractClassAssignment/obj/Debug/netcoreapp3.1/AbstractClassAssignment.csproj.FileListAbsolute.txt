@@ -1,0 +1,14 @@
+D:\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.exe
+D:\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.deps.json
+D:\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.runtimeconfig.json
+D:\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.runtimeconfig.dev.json
+D:\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.dll
+D:\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.pdb
+D:\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.AssemblyInfoInputs.cache
+D:\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.AssemblyInfo.cs
+D:\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.dll
+D:\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.pdb
+D:\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.genruntimeconfig.cache
