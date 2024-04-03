@@ -1,0 +1,14 @@
+D:\Basic_C#_Programs\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.exe
+D:\Basic_C#_Programs\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.deps.json
+D:\Basic_C#_Programs\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.runtimeconfig.json
+D:\Basic_C#_Programs\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.runtimeconfig.dev.json
+D:\Basic_C#_Programs\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.dll
+D:\Basic_C#_Programs\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.pdb
+D:\Basic_C#_Programs\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_C#_Programs\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.AssemblyInfoInputs.cache
+D:\Basic_C#_Programs\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.AssemblyInfo.cs
+D:\Basic_C#_Programs\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.dll
+D:\Basic_C#_Programs\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.pdb
+D:\Basic_C#_Programs\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.genruntimeconfig.cache
