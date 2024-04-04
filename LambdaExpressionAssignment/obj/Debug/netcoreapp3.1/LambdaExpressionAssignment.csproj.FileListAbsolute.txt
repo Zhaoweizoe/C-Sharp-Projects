@@ -1,0 +1,14 @@
+D:\Basic_C#_Programs\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_C#_Programs\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.AssemblyInfoInputs.cache
+D:\Basic_C#_Programs\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.AssemblyInfo.cs
+D:\Basic_C#_Programs\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.exe
+D:\Basic_C#_Programs\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.deps.json
+D:\Basic_C#_Programs\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.runtimeconfig.json
+D:\Basic_C#_Programs\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.runtimeconfig.dev.json
+D:\Basic_C#_Programs\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.dll
+D:\Basic_C#_Programs\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.pdb
+D:\Basic_C#_Programs\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.dll
+D:\Basic_C#_Programs\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.pdb
+D:\Basic_C#_Programs\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.genruntimeconfig.cache
