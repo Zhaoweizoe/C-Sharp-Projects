@@ -1,0 +1,14 @@
+D:\Basic_C#_Programs\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.exe
+D:\Basic_C#_Programs\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.deps.json
+D:\Basic_C#_Programs\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.runtimeconfig.json
+D:\Basic_C#_Programs\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.runtimeconfig.dev.json
+D:\Basic_C#_Programs\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.dll
+D:\Basic_C#_Programs\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.pdb
+D:\Basic_C#_Programs\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_C#_Programs\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.AssemblyInfoInputs.cache
+D:\Basic_C#_Programs\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.AssemblyInfo.cs
+D:\Basic_C#_Programs\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.dll
+D:\Basic_C#_Programs\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.pdb
+D:\Basic_C#_Programs\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.genruntimeconfig.cache
