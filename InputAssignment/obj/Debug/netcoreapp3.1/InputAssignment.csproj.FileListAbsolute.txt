@@ -1,0 +1,14 @@
+D:\Basic_C#_Programs\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.exe
+D:\Basic_C#_Programs\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.deps.json
+D:\Basic_C#_Programs\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.runtimeconfig.json
+D:\Basic_C#_Programs\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.runtimeconfig.dev.json
+D:\Basic_C#_Programs\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.dll
+D:\Basic_C#_Programs\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.pdb
+D:\Basic_C#_Programs\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_C#_Programs\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.AssemblyInfoInputs.cache
+D:\Basic_C#_Programs\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.AssemblyInfo.cs
+D:\Basic_C#_Programs\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.dll
+D:\Basic_C#_Programs\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.pdb
+D:\Basic_C#_Programs\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.genruntimeconfig.cache
