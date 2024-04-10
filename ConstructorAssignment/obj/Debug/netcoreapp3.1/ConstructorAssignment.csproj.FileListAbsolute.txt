@@ -1,0 +1,14 @@
+D:\Basic_C#_Programs\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.exe
+D:\Basic_C#_Programs\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.deps.json
+D:\Basic_C#_Programs\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.runtimeconfig.json
+D:\Basic_C#_Programs\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.runtimeconfig.dev.json
+D:\Basic_C#_Programs\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.dll
+D:\Basic_C#_Programs\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.pdb
+D:\Basic_C#_Programs\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_C#_Programs\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.AssemblyInfoInputs.cache
+D:\Basic_C#_Programs\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.AssemblyInfo.cs
+D:\Basic_C#_Programs\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.dll
+D:\Basic_C#_Programs\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.pdb
+D:\Basic_C#_Programs\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.genruntimeconfig.cache
